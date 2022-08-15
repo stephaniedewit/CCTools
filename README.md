@@ -1,2 +1,2 @@
 # CCTools
-My repository for my package CCTools, which aimes to simplify cell culture-involved calculations.
+My repository for my package CCTools, which aims to simplify cell culture-involved calculations.
